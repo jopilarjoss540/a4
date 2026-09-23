@@ -1,0 +1,207 @@
+{
+  "domain": "spencerwinter",
+  "niche": "Haute Spencer Jacketing & Bespoke Winter Outerwear",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "curated_outerwear_wardrobe_rack.jpg",
+      "size_kb": 70.53,
+      "md5": "ea548729f2b577511f6d0c4607bb6ae7",
+      "description": "Curated atelier outerwear rack displaying military parkas and waxed cotton jackets",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "spencerwinter_asset_13.jpg",
+      "size_kb": 182.96,
+      "md5": "5f7a2b79103064e7fa86a0a64980b6dd",
+      "description": "charvet place vend me sixth floor 02",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "spencerwinter_asset_14.jpg",
+      "size_kb": 175.75,
+      "md5": "c111fff9df0a68b3a97cf76cd5e88702",
+      "description": "charvet place vend me sixth floor 03",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "spencerwinter_asset_15.jpg",
+      "size_kb": 117.85,
+      "md5": "1818797cab39da96f184f25661d4472a",
+      "description": "charvet place vend me sixth floor 04",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "spencerwinter_asset_16.jpg",
+      "size_kb": 98.41,
+      "md5": "8b4599ac24d993548fb6c5ef755929fc",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "spencerwinter_asset_17.jpg",
+      "size_kb": 61.73,
+      "md5": "334dd42a1932fe27ab11d4376b5ddaf2",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "spencerwinter_asset_18.jpg",
+      "size_kb": 131.48,
+      "md5": "30a8ad491ba77b372278eb72098909e0",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "spencerwinter_asset_19.jpg",
+      "size_kb": 90.63,
+      "md5": "3b4150bce8516041d693d8345b499215",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "spencerwinter_asset_20.jpg",
+      "size_kb": 111.68,
+      "md5": "fae4f30c0dba0ac50476b50fd8c146d1",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "spencerwinter_asset_21.jpg",
+      "size_kb": 212.85,
+      "md5": "ed5783643052c546ac1efd93da3e2c25",
+      "description": "coat evening man s am 1996.220.1",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "spencerwinter_asset_22.jpg",
+      "size_kb": 167.1,
+      "md5": "526a411558bbb2c1652e95657ef66c71",
+      "description": "jacket am 1984.142 2",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "spencerwinter_asset_23.jpg",
+      "size_kb": 256.87,
+      "md5": "0208fe40ce54c26c08ce8f55695098e9",
+      "description": "jacket am 1984.142 3",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "spencerwinter_asset_24.jpg",
+      "size_kb": 234.73,
+      "md5": "d540ad8d81654657c81c2c4d9d677cc7",
+      "description": "jacket am 1984.142 4",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "spencerwinter_asset_25.jpg",
+      "size_kb": 132.27,
+      "md5": "d74cd7b8c572e071d0f275de1c40c72b",
+      "description": "jacket am 1984.142 5",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "spencerwinter_asset_26.jpg",
+      "size_kb": 98.42,
+      "md5": "235ea962a6a9d23c2c22f37969b4e38e",
+      "description": "jacket am 2001.42.6 1",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "spencerwinter_asset_27.jpg",
+      "size_kb": 79.63,
+      "md5": "2a722f8fd4e03780d6689003fed2f16c",
+      "description": "jacket am 2001.42.6 2",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "spencerwinter_asset_28.jpg",
+      "size_kb": 314.87,
+      "md5": "8cf8ea111d1106fca349800391ec83f5",
+      "description": "jacket am 2001.42.6 3",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "spencerwinter_asset_29.jpg",
+      "size_kb": 255.56,
+      "md5": "b70667d6c7ce994f786d5cca9efeb80d",
+      "description": "jacket am 2001.42.6 4",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "spencerwinter_asset_30.jpg",
+      "size_kb": 259.08,
+      "md5": "d96c4debafd3ca47fc563ab95ce4857e",
+      "description": "jacket am 2001.42.6 5",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "spencerwinter_asset_31.jpg",
+      "size_kb": 104.76,
+      "md5": "d4348e791d92558e39523160f3ddd984",
+      "description": "jacket am 2001.42.6 6",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://spencerwinter.com/sitemap.xml",
+    "robots": "https://spencerwinter.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
